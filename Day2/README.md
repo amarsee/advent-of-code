@@ -33,6 +33,7 @@ What is the checksum for your list of box IDs?
 Your puzzle answer was 6696.
 
 -------------------- Part Two ---------------
+
 Confident that your list of box IDs is complete, you're ready to find the boxes full of prototype fabric.
 
 The boxes will have IDs which differ by exactly one character at the same position in both strings. For example, given the following box IDs:
